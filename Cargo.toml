@@ -1,0 +1,5 @@
+[package]
+
+name = "testrust"
+version = "0.0.1"
+authors = ["Mark Oleson <fusion2004@gmail.com>"]
